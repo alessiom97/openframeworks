@@ -1,0 +1,4 @@
+This is my current iteration of Project 2. It is a weather visualization app that uses a series of vertex buffer objects to visualize the current weather condition. My focus was on the variables that people tend to pay less attention to, like the UV index, and the wind speed, which in New York very much affects temperature. Future additions will include an automatic switch between the Sun/Moon according to day time, a cleaner UI and more appropriate visualization of wind speed.
+
+![image](screenshot.png)
+![gif](recording.gif)
